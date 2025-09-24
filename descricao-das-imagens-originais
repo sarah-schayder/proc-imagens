@@ -1,0 +1,95 @@
+-> Imagem "chave_i_d_sarah":
+---> dimensão: 598x747
+---> turno: dia
+---> ambiente: interno
+---> objeto: chaves
+---> descrição positiva: boa iluminação do sol, o bjeto principal está em foco
+---> descrição negativa: pouco nítida, talvez tremida, e o objeto principal com alguns reflexos dele mesmo e possíveis detalhes ao fundo que podem se sobressair de alguma forma
+
+-> Imagem "chave_i_n_sarah":
+---> dimensão: 554x692
+---> turno: noite
+---> ambiente: interno
+---> objeto: chaves
+---> descrição positiva: imagem está nítida e boa iluminação de flash
+---> descrição negativa: alguns reflexos da luz sobre o objeto principal e sombra do objeto principal ao fundo que pode ser confundido
+
+-> Imagem "chave_o_d_sarah":
+---> dimensão: 516x645
+---> turno: dia
+---> ambiente: externo
+---> objeto: chaves
+---> descrição positiva: nítida e sem muitos detalhes de fundo
+---> descrição negativa: sombra do objeto sobre ele mesmo e também reflexo da luz sobre o objeto principal
+
+-> Imagem "chave_o_n_sarah":
+---> dimensão: 584x730
+---> turno: noite
+---> ambiente: externo
+---> objeto: chaves
+---> descrição positiva: nítida e boa iluminação de flash
+---> descrição negativa: reflexos da luz sobre o objeto principal e sombra ao fundo
+
+-> Imagem "escova_i_d_sarah":
+---> dimensão: 564x705
+---> turno: dia
+---> ambiente: interno
+---> objeto: escova
+---> descrição positiva: imagem nítida, sem muitas sombras
+---> descrição negativa: os detalhes do tapete ao fundo podem ser confundidos
+
+-> Imagem "escova_i_n_sarah":
+---> dimensão: 590x738
+---> turno: noite
+---> ambiente: interno
+---> objeto: escova
+---> descrição positiva: sem muitas sombras que possam ser confundida com o objeto principal, boa iluminação sem flash
+---> descrição negativa: pouco foco, não nítida
+
+-> Imagem "escova_o_d_sarah":
+---> dimensão: 605x757
+---> turno: dia
+---> ambiente: externo
+---> objeto: escova
+---> descrição positiva: sem muitos detalhes ao fundo, boa iluminação
+---> descrição negativa: imagem aparenta estra tremida, sem foco
+
+-> Imagem "escova_o_n_sarah":
+---> dimensão: 590x737
+---> turno: noite
+---> ambiente: externo
+---> objeto: escova
+---> descrição positiva: sem muitos detalhes ao fundo, boa iluminação de flash
+---> descrição negativa: sombra muito forte do objeto principal ao fundo, podendo ser confundido
+
+-> Imagem "flor_i_d_sarah":
+---> dimensão: 614x768
+---> turno: dia
+---> ambiente: interno
+---> objeto: flor
+---> descrição positiva: sem muitos detalhes ao fundo, boa iluminação
+---> descrição negativa: muitas sombras do objeto sobre ele mesmo, pouco nítida
+
+-> Imagem "flor_i_n_sarah":
+---> dimensão: 586x732
+---> turno: noite
+---> ambiente: interno
+---> objeto: flor
+---> descrição positiva: nítida, boa iluminação de flash, muitos detalhes
+---> descrição negativa: objeto ao fundo que chama atenção, aparecem sombras de algumas partes do objetos principal sobre ele mesmo
+
+-> Imagem "flor_o_d_sarah":
+---> dimensão: 559x699
+---> turno: dia
+---> ambiente: externo
+---> objeto: flor
+---> descrição positiva: boa iluminação e mostra uma quantidade razoável de detalhes
+---> descrição negativa: muitos detalhes ao fundo com uma cor parecida com a cor do objeto principal
+
+-> Imagem "flor_o_n_sarah":
+---> dimensão: 619x774
+---> turno: noite
+---> ambiente: externo
+---> objeto: flor
+---> descrição positiva: nítida, boa iluminação de flash
+---> descrição negativa: muitos detalhes ao fundo que podem tirar o foco do objeto princial
