@@ -1,2 +1,2 @@
 # proc-imagens
-Base para processamento de imagens
+Processamento de imagens
